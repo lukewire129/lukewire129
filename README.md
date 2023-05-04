@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm lukewire129</h1>
+<h1 align="center">Hi 👋, I'm lukewire</h1>
 <h3 align="center">A passionate frontend developer from Korea</h3>
 
 - 🔭 I’m currently working on **.NET MAUI Project**

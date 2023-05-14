@@ -6,7 +6,7 @@
   
  
 </div>
-- 🔭 I’m currently working on **.NET MAUI Project**
+- 🔭 I’m currently working on ** .NET MAUI Project **
 
 - 🌱 I’m currently learning **.NET**
 

@@ -11,8 +11,6 @@
 
 - 🌱 I’m currently learning **.NET**
 
-- 👯 I’m looking to collaborate on [objective](https://github.com/jamesnet214/objective)
-
 - 📫 How to reach me **lukewire129@gmail.com**
 
 <h3 align="left">Connect with me:</h3>

@@ -7,8 +7,6 @@
  
 </div>
 
-- 🔭 I’m currently working on **.NET MAUI**
-
 - 🌱 I’m currently learning **.NET**
 
 - 📫 How to reach me **lukewire129@gmail.com**

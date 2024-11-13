@@ -1,5 +1,3 @@
-# 👋 Hello, I'm 이광석 (lukewire129)!
-
 **[🇰🇷 한국어 버전은 여기를 클릭하세요](README_KR.md)**
 
 ## About Me

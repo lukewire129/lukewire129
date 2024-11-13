@@ -4,8 +4,8 @@
 I'm a passionate .NET developer and tech enthusiast with a keen interest in cross-platform UI frameworks and tools like **Avalonia** and **MAUI**. My focus is on creating modern, responsive UIs within the .NET ecosystem.
 
 ## 🔧 Tech Stack
-- **Languages**: C#, JavaScript
-- **Frameworks**: .NET, WPF, Avalonia UI, MAUI, React
+- **Languages**: C#
+- **Frameworks**: .NET, WPF, Avalonia UI, MAUI
 
 ## 📖 My Blog
 On my blog, [lukewire129](https://lukewire129.github.io/blog/), I write about .NET, Avalonia, UI styling, and useful tips for developers. If you're interested in Avalonia, Markdown-based blogging, or .NET internals, you’ll find valuable insights there.

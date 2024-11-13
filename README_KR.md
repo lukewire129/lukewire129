@@ -2,8 +2,8 @@
 열정적인 .NET 개발자이자 기술 애호가로, **Avalonia**와 **MAUI** 같은 크로스 플랫폼 UI 프레임워크와 도구에 관심이 많습니다. 주로 .NET 생태계에서 현대적이고 반응형 UI를 구현하는 데 집중하고 있습니다.
 
 ## 🔧 기술 스택
-- **주요 언어**: C#, JavaScript
-- **프레임워크**: .NET, WPF, Avalonia UI, MAUI, React
+- **주요 언어**: C#
+- **프레임워크**: .NET, WPF, Avalonia UI, MAUI
 
 ## 📖 내 블로그
 저의 블로그 [lukewire129](https://lukewire129.github.io/blog/)에서는 .NET, Avalonia, UI 스타일링, 개발자들을 위한 유용한 팁을 주제로 다양한 글을 작성하고 있습니다. Avalonia, Markdown 기반 블로깅, .NET 내부 구조 등에 관심이 있다면 유익한 정보를 얻으실 수 있을 것입니다.
